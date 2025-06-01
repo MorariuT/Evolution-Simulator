@@ -37,4 +37,6 @@ and then:
 python3 main.py
 ```
 
-Note: a venv is required
+Notes: 
+* a venv is required
+* the tested python version is $3.13.3$
