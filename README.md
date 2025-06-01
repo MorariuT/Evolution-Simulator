@@ -5,7 +5,7 @@ A simple neural network + genetic algorithm based evolution simulation
 
 ### Generation Steps
 
-At each new generation, $30$ blobs and $20$4 food units are spawed at random positions.
+At each new generation, $30$ blobs and $20$ food units are spawed at random positions.
 
 Each blob needs to take as much food as possible.
 
